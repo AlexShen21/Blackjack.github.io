@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Blackjack_Pages/static/css/main.0c6fada1.css",
+    "main.js": "/Blackjack_Pages/static/js/main.d31d1a3f.js",
+    "index.html": "/Blackjack_Pages/index.html",
+    "main.0c6fada1.css.map": "/Blackjack_Pages/static/css/main.0c6fada1.css.map",
+    "main.d31d1a3f.js.map": "/Blackjack_Pages/static/js/main.d31d1a3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c6fada1.css",
+    "static/js/main.d31d1a3f.js"
+  ]
+}
