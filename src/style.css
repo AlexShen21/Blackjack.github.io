@@ -129,8 +129,8 @@ table{
 
 .playAgain {
   position: absolute;
-  right: 120px;
-  top: 120px;
+  right: 10%;
+  top: 10%;
   display: inline-block;
   }
 
@@ -151,8 +151,8 @@ table{
 /* new Game and button*/
 .newGame {
   position: absolute;
-  left: 120px;
-  top: 120px;
+  left: 10%;
+  top: 10%;
   display: inline-block;
   }
 
@@ -173,7 +173,7 @@ table{
 /* Hit/Stand and buttons */
 .actions{
   position: absolute;
-  top: 85px;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, 0);
   border-radius: 50%;
@@ -195,7 +195,7 @@ table{
 /* Placing Bet and Button */
 .placeBet{
   position: absolute;
-  top: 730px;
+  bottom: 2%;
   left: 50%;
   transform: translate(-50%, 0);
   color: white;
@@ -223,7 +223,7 @@ table{
 
 .bet1{
   position: absolute;
-  bottom: 55px;
+  bottom: 9%;
   left: 37%;
   transform: translate(-50%, 0);
 
@@ -273,7 +273,7 @@ table{
 
 .bet5{
   position: absolute;
-  bottom: 55px;
+  bottom: 9%;
   left: 43.5%;
   transform: translate(-50%, 0);
 
@@ -323,7 +323,7 @@ table{
 
 .bet10{
   position: absolute;
-  bottom: 55px;
+  bottom: 9%;
   left: 50%;
   transform: translate(-50%, 0);
 
@@ -373,7 +373,7 @@ table{
 
 .bet20{
   position: absolute;
-  bottom: 55px;
+  bottom: 9%;
   left: 56.5%;
   transform: translate(-50%, 0);
 
@@ -422,7 +422,7 @@ table{
 
 .all{
   position: absolute;
-  bottom: 55px;
+  bottom: 9%;
   left: 63%;
   transform: translate(-50%, 0);
 
@@ -498,8 +498,8 @@ table{
 }
 .currBet{
   position: absolute;
-  left: 200px;
-  top: 700px;
+  left: 15%;
+  bottom: 8%;
   color: white;
   display: inline-block;
   padding: 10px 24px;
@@ -508,8 +508,8 @@ table{
 
 .wagered{
   position: absolute;
-  left: 200px;
-  top: 750px;
+  left: 13%;
+  bottom: 4%;
   color: white;
   display: inline-block;
   padding: 10px 24px;
@@ -529,7 +529,7 @@ table{
 
 .yourCards{
   position: absolute;
-  bottom: 540px;
+  bottom: 70%;
   left: 50%;
   transform: translate(-50%, 0);
   color: white;
@@ -537,7 +537,7 @@ table{
 
 .dealerWords{
   position: absolute;
-  bottom: 65px;
+  bottom: 10%;
   left: 50%;
   transform: translate(-50%, 0);
   color: white;
@@ -545,13 +545,13 @@ table{
 
 .dealercards{
   margin: 0 auto;
-  margin-top: 110px;
+  margin-top: 8%;
 }
 
 
 
 .cards {
   margin: 0 auto;
-  margin-top: 90px;
+  margin-top: 6%;
 }
 
