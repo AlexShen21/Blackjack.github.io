@@ -488,8 +488,8 @@ table{
  /* Wallet */
 .Wallet{
   position: absolute;
-  right: 200px;
-  top: 700px;
+  right: 15%;
+  bottom: 8%;
   background-color: rgb(43, 43, 43);
   color: white;
   display: inline-block;
