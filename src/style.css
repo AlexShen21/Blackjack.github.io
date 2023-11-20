@@ -107,7 +107,7 @@ table{
 
 .message{
   position: absolute;
-  top: 700px;
+  bottom: 5%
   left: 50%;
   transform: translate(-50%, 0);
   color: white;
@@ -115,7 +115,7 @@ table{
 
 .message2{
   position: absolute;
-  top: 100px;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, 0);
   color: white;
